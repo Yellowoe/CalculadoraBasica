@@ -11,6 +11,7 @@ import javafx.stage.StageStyle;
 /**
  * JavaFX App
  */
+//Joxan Portilla Hernandez 
 public class App extends Application {
 
     private static Scene scene;
